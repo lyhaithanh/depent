@@ -1,0 +1,10 @@
+{
+  "name": "seeone",
+  "description": ".replace('{{seeone}}', string)",
+  "version": "0.2.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "dscxzsdacxzsad/seeone",
+  "license": "MIT"
+}
